@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Marcelo-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcel0_sous4/?hl=pt-br)](https://www.instagram.com/marcel0_sous4/?hl=pt-br)
 [![Facebook Badge](https://img.shields.io/badge/-Marcelo-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Marcel0Sousa/)](https://www.facebook.com/Marcel0Sousa/)
 
-### Seja bem vindo ao meu repositório! 👋 aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
+### Seja bem vindo ao meu repositório! 👋 Aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 
 ### 💼 Trabalho com
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
