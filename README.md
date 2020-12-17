@@ -4,6 +4,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Marcelo-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcel0_sous4/?hl=pt-br)](https://www.instagram.com/marcel0_sous4/?hl=pt-br)
 [![Facebook Badge](https://img.shields.io/badge/-Marcelo-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/Marcel0Sousa/)](https://www.facebook.com/Marcel0Sousa/)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Marcel0Sousa&show_icons=true&theme=dracula)
+
 ### Seja bem vindo ao meu repositório! 👋 Aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 
 ### 💼 Trabalho com
@@ -20,7 +22,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
-## Estou interessado
+## 👀 Estou interessado
 ![Kotlin](https://img.shields.io/badge/-Kotlin-CE608A?style=flat-square&logo=kotlin&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-F5820D?style=flat-square&logo=firebase&logoColor=white)
