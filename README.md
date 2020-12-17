@@ -1,4 +1,4 @@
 # :man_technologist: George Alan
-[![Linkedin Badge](https://img.shields.io/badge/-Marcelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcel0sousa/)](https://www.linkedin.com/in/marcel0sousa/)
-[![Gmail Badge](https://img.shields.io/badge/-a.sousa.ff@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a.sousa.ff@gmail.com)](mailto:a.sousa.ff@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Marcelo-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcel0_sous4/?hl=pt-br)](https://www.instagram.com/marcel0_sous4/?hl=pt-br)
+[![Linkedin Badge](https://img.shields.io/badge/-Marcelo-Sousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcel0sousa/)](https://www.linkedin.com/in/marcel0sousa/)
+[![Gmail Badge](https://img.shields.io/badge/-Marcelo-Sousa-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a.sousa.ff@gmail.com)](mailto:a.sousa.ff@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Marcelo-Sousa-a43b9d?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcel0_sous4/?hl=pt-br)](https://www.instagram.com/marcel0_sous4/?hl=pt-br)
