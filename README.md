@@ -9,6 +9,7 @@
 ### Seja bem vindo ao meu repositório! 👋 Aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador. 🏆
 
 ### 💼 Trabalho com
+![Kotlin](https://img.shields.io/badge/-Kotlin-CE608A?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-E42D2C?style=flat-square&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-32DE84?style=flat-square&logo=android&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -23,7 +24,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
 ## 👀 Estou interessado
-![Kotlin](https://img.shields.io/badge/-Kotlin-CE608A?style=flat-square&logo=kotlin&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-F5820D?style=flat-square&logo=firebase&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-54C5F8?style=flat-square&logo=flutter&logoColor=white)
