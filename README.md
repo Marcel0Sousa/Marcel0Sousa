@@ -5,8 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Marcelo-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:a.sousa.ff@gmail.com)](mailto:a.sousa.ff@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Marcelo-a43b9d?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/marcel0_sous4/?hl=pt-br)](https://www.instagram.com/marcel0_sous4/?hl=pt-br)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Marcel0Sousa&show_icons=true&theme=dracula)
-
 ### Seja bem vindo ao meu repositório! Aqui fica reunido a maioria dos meus projetos de estudo, a minha evolução diária em busca da senioridade e proficiência como programador.
 
 ### Languages
